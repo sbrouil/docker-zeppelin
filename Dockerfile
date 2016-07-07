@@ -1,8 +1,5 @@
 FROM debian:jessie
 
-ENV http_proxy=http://proxy-chain.intel.com:911
-ENV https_proxy=http://proxy-chain.intel.com:911
-
 WORKDIR /zeppelin
 
 RUN apt-get update \
