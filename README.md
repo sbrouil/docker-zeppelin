@@ -1,4 +1,7 @@
 # Docker Zeppelin
+This Dockerfile contains the minimum stuff to wraps Zeppelin with the default configuration into a docker container. You can configure the port exposed to the host system from docker cli.
+
+You can use Zeppelin UI for further configuration of Zeppelin interpreters.
 
 To build the image
 ```bash
