@@ -1,4 +1,4 @@
-# docker Zepeplin
+# Docker Zeppelin
 
 To build the image
 ```bash
